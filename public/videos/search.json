@@ -1,0 +1,856 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "u5uZ2n99M4PrVgV3f9X7ZLnZ4hg",
+    "nextPageToken": "CBkQAA",
+    "regionCode": "KR",
+    "pageInfo": {
+      "totalResults": 100809,
+      "resultsPerPage": 25
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "sjl1oSZQbFXH0P165uRjfXBivPs",
+        "id": {
+          "kind": "youtube#channel",
+          "channelId": "UCom6YhUY62jM52nIMjf5_dw"
+        },
+        "snippet": {
+          "publishedAt": "2017-10-16T15:46:11Z",
+          "channelId": "UCom6YhUY62jM52nIMjf5_dw",
+          "title": "오킹TV",
+          "description": "안녕하세요 크리에이터 오킹입니다! 근거없는 낭설/악플, 싸움조장, 해당 영상과 관련없는 댓글 삭제합니다. 각종 공지는 네이버 카페 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://yt3.ggpht.com/-YKgokZ5WLPjUzLbSTwCkZqUQLC-azGfhpttSiKKZWx_vm0YZ09_o4NrizDGB96C9dr6ITqCb04=s88-c-k-c0xffffffff-no-rj-mo"
+            },
+            "medium": {
+              "url": "https://yt3.ggpht.com/-YKgokZ5WLPjUzLbSTwCkZqUQLC-azGfhpttSiKKZWx_vm0YZ09_o4NrizDGB96C9dr6ITqCb04=s240-c-k-c0xffffffff-no-rj-mo"
+            },
+            "high": {
+              "url": "https://yt3.ggpht.com/-YKgokZ5WLPjUzLbSTwCkZqUQLC-azGfhpttSiKKZWx_vm0YZ09_o4NrizDGB96C9dr6ITqCb04=s800-c-k-c0xffffffff-no-rj-mo"
+            }
+          },
+          "channelTitle": "오킹TV",
+          "liveBroadcastContent": "none",
+          "publishTime": "2017-10-16T15:46:11Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "re58IePofjiEmzJqltzz2WDEfKY",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "5m78ToC91cg"
+        },
+        "snippet": {
+          "publishedAt": "2023-06-09T09:00:04Z",
+          "channelId": "UCom6YhUY62jM52nIMjf5_dw",
+          "title": "페퍼로니 피자",
+          "description": "오킹 팬카페! 네이버 카페 : https://oking.kr/fancafe ◇ 쏠란트 홈페이지 바로가기 : https://ssolant.com ◇ 오킹에게 후원하기 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/5m78ToC91cg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/5m78ToC91cg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/5m78ToC91cg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "오킹TV",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-06-09T09:00:04Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "npQpAHtgPUTIVODhc-X7N77UdvA",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "GbQ79QCQki4"
+        },
+        "snippet": {
+          "publishedAt": "2023-06-03T09:00:18Z",
+          "channelId": "UCom6YhUY62jM52nIMjf5_dw",
+          "title": "내 자식이 내 아내에게 대든다면?",
+          "description": "오킹 팬카페! 네이버 카페 : https://oking.kr/fancafe ◇ 쏠란트 홈페이지 바로가기 : https://ssolant.com ◇ 오킹에게 후원하기 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/GbQ79QCQki4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/GbQ79QCQki4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/GbQ79QCQki4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "오킹TV",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-06-03T09:00:18Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "FddmG5zmHPdhUp6-3_QXyjiw4fM",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Sal4OAZAhMc"
+        },
+        "snippet": {
+          "publishedAt": "2023-06-04T09:00:24Z",
+          "channelId": "UCom6YhUY62jM52nIMjf5_dw",
+          "title": "여자친구가 취했는데 연락이 안 된다고?",
+          "description": "오킹 팬카페! 네이버 카페 : https://oking.kr/fancafe ◇ 쏠란트 홈페이지 바로가기 : https://ssolant.com ◇ 오킹에게 후원하기 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Sal4OAZAhMc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Sal4OAZAhMc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Sal4OAZAhMc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "오킹TV",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-06-04T09:00:24Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "8Un_NWGJPbrG1GyCsu7GgbLpPQ4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "k6AFz0W8giI"
+        },
+        "snippet": {
+          "publishedAt": "2023-06-02T09:00:27Z",
+          "channelId": "UCom6YhUY62jM52nIMjf5_dw",
+          "title": "이과들의 안일함",
+          "description": "오킹 팬카페! 네이버 카페 : https://oking.kr/fancafe ◇ 쏠란트 홈페이지 바로가기 : https://ssolant.com ◇ 오킹에게 후원하기 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/k6AFz0W8giI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/k6AFz0W8giI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/k6AFz0W8giI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "오킹TV",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-06-02T09:00:27Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "lhV8_dnmgSqCVFCqLzqrRznOqDw",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "kyvsUueDFVw"
+        },
+        "snippet": {
+          "publishedAt": "2023-05-07T09:00:24Z",
+          "channelId": "UCom6YhUY62jM52nIMjf5_dw",
+          "title": "남자들은 예쁘면 무조건 좋아할까요?",
+          "description": "오킹 팬카페! 네이버 카페 : https://oking.kr/fancafe ◇ 쏠란트 홈페이지 바로가기 : https://ssolant.com ◇ 오킹에게 후원하기 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/kyvsUueDFVw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/kyvsUueDFVw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/kyvsUueDFVw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "오킹TV",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-05-07T09:00:24Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "SvkbAKihCdFoo7q9KXSIAMtZe5A",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "wTENcC7SGIk"
+        },
+        "snippet": {
+          "publishedAt": "2023-05-26T09:00:42Z",
+          "channelId": "UCom6YhUY62jM52nIMjf5_dw",
+          "title": "이런 애인 만나면 정말 힘듭니다",
+          "description": "오킹 팬카페! 네이버 카페 : https://oking.kr/fancafe ◇ 쏠란트 홈페이지 바로가기 : https://ssolant.com ◇ 오킹에게 후원하기 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/wTENcC7SGIk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/wTENcC7SGIk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/wTENcC7SGIk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "오킹TV",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-05-26T09:00:42Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "dHYFfGaySamrOWl4P6FJpwyEA0Y",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "g8ECkQjows4"
+        },
+        "snippet": {
+          "publishedAt": "2023-06-11T09:00:21Z",
+          "channelId": "UCom6YhUY62jM52nIMjf5_dw",
+          "title": "부산 버스킹 해보고 느꼈습니다",
+          "description": "오킹 팬카페! 네이버 카페 : https://oking.kr/fancafe ◇ 쏠란트 홈페이지 바로가기 : https://ssolant.com ◇ 오킹에게 후원하기 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/g8ECkQjows4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/g8ECkQjows4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/g8ECkQjows4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "오킹TV",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-06-11T09:00:21Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "9miAB1KhdSYjcoVYJ9IbN68st_0",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "vJoT0_zIvdw"
+        },
+        "snippet": {
+          "publishedAt": "2023-05-31T09:00:38Z",
+          "channelId": "UCom6YhUY62jM52nIMjf5_dw",
+          "title": "세계에서 가장 큰 귀신의 집..",
+          "description": "오킹 팬카페! 네이버 카페 : https://oking.kr/fancafe ◇ 쏠란트 홈페이지 바로가기 : https://ssolant.com ◇ 오킹에게 후원하기 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/vJoT0_zIvdw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/vJoT0_zIvdw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/vJoT0_zIvdw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "오킹TV",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-05-31T09:00:38Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "lMtrypPYbvkh_ALqhU7xdp_wiiw",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "I2sZze3geH4"
+        },
+        "snippet": {
+          "publishedAt": "2023-05-22T09:00:17Z",
+          "channelId": "UCom6YhUY62jM52nIMjf5_dw",
+          "title": "내가 종교를 믿지 않는 이유",
+          "description": "오킹 팬카페! 네이버 카페 : https://oking.kr/fancafe ◇ 쏠란트 홈페이지 바로가기 : https://ssolant.com ◇ 오킹에게 후원하기 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/I2sZze3geH4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/I2sZze3geH4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/I2sZze3geH4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "오킹TV",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-05-22T09:00:17Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Wo0lwErOUJhJSMVahdcdThCySnQ",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "dI9FduxONFI"
+        },
+        "snippet": {
+          "publishedAt": "2023-05-27T09:00:21Z",
+          "channelId": "UCom6YhUY62jM52nIMjf5_dw",
+          "title": "엔조이커플 결혼식 다녀왔습니다",
+          "description": "오킹 팬카페! 네이버 카페 : https://oking.kr/fancafe ◇ 쏠란트 홈페이지 바로가기 : https://ssolant.com ◇ 오킹에게 후원하기 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/dI9FduxONFI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/dI9FduxONFI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/dI9FduxONFI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "오킹TV",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-05-27T09:00:21Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "z-CTma4uVcdo8LCbIM7Jc1egqKo",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "G5hk1UBLtRk"
+        },
+        "snippet": {
+          "publishedAt": "2022-08-20T09:00:09Z",
+          "channelId": "UCom6YhUY62jM52nIMjf5_dw",
+          "title": "북한이 핵을 절대 쏘지 못하는 이유",
+          "description": "오킹 팬카페! 네이버 카페 : https://oking.kr/fancafe ◇ 쏠란트 홈페이지 바로가기 : https://ssolant.com ◇ 오킹에게 후원하기 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/G5hk1UBLtRk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/G5hk1UBLtRk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/G5hk1UBLtRk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "오킹TV",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-08-20T09:00:09Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "eP8rM8TQbxFhh_sNjlTdk0AkbXo",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "r8f4VQMsi40"
+        },
+        "snippet": {
+          "publishedAt": "2023-02-09T09:00:36Z",
+          "channelId": "UCom6YhUY62jM52nIMjf5_dw",
+          "title": "학교 다닐 때 제일 이해 안 가던 부류",
+          "description": "오킹 팬카페! 네이버 카페 : https://oking.kr/fancafe ◇ 쏠란트 홈페이지 바로가기 : https://ssolant.com ◇ 오킹에게 후원하기 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/r8f4VQMsi40/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/r8f4VQMsi40/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/r8f4VQMsi40/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "오킹TV",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-02-09T09:00:36Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "yLFx1OBZbLGotrPlZeg8W_hk7n8",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "MUjCBfTPFqQ"
+        },
+        "snippet": {
+          "publishedAt": "2023-06-10T09:00:23Z",
+          "channelId": "UCom6YhUY62jM52nIMjf5_dw",
+          "title": "임금 체불이 아니라 출연료 미지급이라네요(통화내용)",
+          "description": "오킹 팬카페! 네이버 카페 : https://oking.kr/fancafe ◇ 쏠란트 홈페이지 바로가기 : https://ssolant.com ◇ 오킹에게 후원하기 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/MUjCBfTPFqQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/MUjCBfTPFqQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/MUjCBfTPFqQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "오킹TV",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-06-10T09:00:23Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Y_FtNP0kj5KeBQtbqexHrgTjyn8",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "9BKX2r06Z-8"
+        },
+        "snippet": {
+          "publishedAt": "2023-06-01T09:00:08Z",
+          "channelId": "UCom6YhUY62jM52nIMjf5_dw",
+          "title": "내가 살 뺀 이유",
+          "description": "오킹 팬카페! 네이버 카페 : https://oking.kr/fancafe ◇ 쏠란트 홈페이지 바로가기 : https://ssolant.com ◇ 오킹에게 후원하기 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/9BKX2r06Z-8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/9BKX2r06Z-8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/9BKX2r06Z-8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "오킹TV",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-06-01T09:00:08Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "fI-938WXckNB34-HTO94X4N1K10",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "o0QkWjkMOfQ"
+        },
+        "snippet": {
+          "publishedAt": "2023-02-02T09:00:30Z",
+          "channelId": "UCom6YhUY62jM52nIMjf5_dw",
+          "title": "미성년자의 연애에 보호가 필요한 이유",
+          "description": "오킹 팬카페! 네이버 카페 : https://oking.kr/fancafe ◇ 쏠란트 홈페이지 바로가기 : https://ssolant.com ◇ 오킹에게 후원하기 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/o0QkWjkMOfQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/o0QkWjkMOfQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/o0QkWjkMOfQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "오킹TV",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-02-02T09:00:30Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "7aYyKIL20FSGUDW5PNQiLXS79yk",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "yLBsnfSlTJQ"
+        },
+        "snippet": {
+          "publishedAt": "2023-06-08T09:00:37Z",
+          "channelId": "UCom6YhUY62jM52nIMjf5_dw",
+          "title": "핫도그에 설탕은 노근본이지ㅋㅋㅋㅋ",
+          "description": "오킹 팬카페! 네이버 카페 : https://oking.kr/fancafe ◇ 쏠란트 홈페이지 바로가기 : https://ssolant.com ◇ 오킹에게 후원하기 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/yLBsnfSlTJQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/yLBsnfSlTJQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/yLBsnfSlTJQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "오킹TV",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-06-08T09:00:37Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "_Z9HI9TxmfvFazQ0ym4Gsg6igDc",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Cd-MA8V5pUQ"
+        },
+        "snippet": {
+          "publishedAt": "2023-06-07T09:00:07Z",
+          "channelId": "UCom6YhUY62jM52nIMjf5_dw",
+          "title": "명품 하나 사려고 했는데..",
+          "description": "오킹 팬카페! 네이버 카페 : https://oking.kr/fancafe ◇ 쏠란트 홈페이지 바로가기 : https://ssolant.com ◇ 오킹에게 후원하기 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Cd-MA8V5pUQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Cd-MA8V5pUQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Cd-MA8V5pUQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "오킹TV",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-06-07T09:00:07Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "XGMZ9ai14WtyzBHDtQhO5JAzSoU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "YHa8-qthd6M"
+        },
+        "snippet": {
+          "publishedAt": "2023-01-22T09:00:14Z",
+          "channelId": "UCom6YhUY62jM52nIMjf5_dw",
+          "title": "440km 걷고도 살이 안 빠진 사람이 있다?",
+          "description": "오킹 팬카페! 네이버 카페 : https://oking.kr/fancafe ◇ 쏠란트 홈페이지 바로가기 : https://ssolant.com ◇ 오킹에게 후원하기 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/YHa8-qthd6M/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/YHa8-qthd6M/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/YHa8-qthd6M/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "오킹TV",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-01-22T09:00:14Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "7NZEVmRnABmZBvgHIIBR9jR8NSE",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "71y3aWmphwU"
+        },
+        "snippet": {
+          "publishedAt": "2023-05-30T05:50:50Z",
+          "channelId": "UCRB1FC7myfXLyJNx2D0wFrA",
+          "title": "드디어 네크로맨서 3차! 그리고.. 마을 최초 살인자 등장..?! ㅣ 악어의놀이터16",
+          "description": "오킹 팬카페! 네이버 카페 : https://oking.kr/fancafe ◇ 비즈니스 메일 문의 : okingcompany93@gmail.com ◇ 오킹에게 후원하기 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/71y3aWmphwU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/71y3aWmphwU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/71y3aWmphwU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "오락킹",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-05-30T05:50:50Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "IBRnVyqLXBkeL4HrCUB1XhfICeg",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "gWJ4K-ty6ng"
+        },
+        "snippet": {
+          "publishedAt": "2023-03-26T09:00:33Z",
+          "channelId": "UCom6YhUY62jM52nIMjf5_dw",
+          "title": "ENFP의 망상 동화 만들기",
+          "description": "오킹 팬카페! 네이버 카페 : https://oking.kr/fancafe ◇ 쏠란트 홈페이지 바로가기 : https://ssolant.com ◇ 오킹에게 후원하기 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/gWJ4K-ty6ng/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/gWJ4K-ty6ng/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/gWJ4K-ty6ng/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "오킹TV",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-03-26T09:00:33Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "dGYexIA1R0XL2NZxKiCxoKG5CPE",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "-f7b30i2SmA"
+        },
+        "snippet": {
+          "publishedAt": "2023-01-26T11:30:01Z",
+          "channelId": "UCsRIHt5FkbGc6cQtCxt-ufA",
+          "title": "[#티전드] 이상형으로 뽑은 사람이 소개팅에 나왔다?💓 엄청난 유교보이 오킹의 흥선대원군급 가치관ㅋㅋㅋ🤣 | #스킵",
+          "description": "티전드 #스킵 #tvN 00:00 오프닝 00:05 소개팅에서 닐리리 맘보를? 13:56 예의 바른 흥선대원군 오킹ㅋㅋ 회차 정보: 스킵 5, 6회 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/-f7b30i2SmA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/-f7b30i2SmA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/-f7b30i2SmA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "tvN D ENT",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-01-26T11:30:01Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "bpm-6MxcKG-xz3KrKvvlni4ZpDk",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "KA78LmDnxJA"
+        },
+        "snippet": {
+          "publishedAt": "2023-03-09T09:00:11Z",
+          "channelId": "UCom6YhUY62jM52nIMjf5_dw",
+          "title": "여자의 클럽 vs 남자의 PC방",
+          "description": "오킹 팬카페! 네이버 카페 : https://oking.kr/fancafe ◇ 쏠란트 홈페이지 바로가기 : https://ssolant.com ◇ 오킹에게 후원하기 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/KA78LmDnxJA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/KA78LmDnxJA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/KA78LmDnxJA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "오킹TV",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-03-09T09:00:11Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "EhlWblg-Ywiou1oMK47drukkIDw",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "FcxangJUCcY"
+        },
+        "snippet": {
+          "publishedAt": "2022-11-15T09:00:17Z",
+          "channelId": "UCom6YhUY62jM52nIMjf5_dw",
+          "title": "진화론 vs 창조론",
+          "description": "오킹 팬카페! 네이버 카페 : https://oking.kr/fancafe ◇ 쏠란트 홈페이지 바로가기 : https://ssolant.com ◇ 오킹에게 후원하기 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/FcxangJUCcY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/FcxangJUCcY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/FcxangJUCcY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "오킹TV",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-11-15T09:00:17Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "a3v0jvdDpjgWfhXYAjRQ1UEEatE",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "XRFRRvIq-IU"
+        },
+        "snippet": {
+          "publishedAt": "2023-05-23T09:00:32Z",
+          "channelId": "UCom6YhUY62jM52nIMjf5_dw",
+          "title": "요즘 20대의 빠른 결혼",
+          "description": "오킹 팬카페! 네이버 카페 : https://oking.kr/fancafe ◇ 쏠란트 홈페이지 바로가기 : https://ssolant.com ◇ 오킹에게 후원하기 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/XRFRRvIq-IU/default.jpg",
+              "width": 120, 
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/XRFRRvIq-IU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/XRFRRvIq-IU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "오킹TV",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-05-23T09:00:32Z"
+        }
+      }
+    ]
+  }
