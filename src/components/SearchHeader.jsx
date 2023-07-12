@@ -11,7 +11,8 @@ export default function SearchHeader() {
         e.preventDefault();
         navigate(`/videos/${text}`);
     };
-
+    
+    //키워드가변경될떄마다 실행
     useEffect(() => setText(keyword || '') ,[keyword])
 
     return (
@@ -35,4 +36,8 @@ export default function SearchHeader() {
         </header>
     );
 }
+
+
+
+
 
