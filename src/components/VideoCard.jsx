@@ -15,7 +15,7 @@ export default function VideoCard({ video ,type}) {
            src={thumbnails.medium.url} alt={title} 
            />
            <div className={isList ? 'w-60 mr-2' : 'w-full'}>
-            <p className='font-semibold my-2'>{title}</p>
+            <p className='font-semibold my-2 line-clamp-2'>{title}</p>
             <p className='text-sm opacity-80'>{channelTitle}</p>
             <p className='text-sm opacity-80'>{formatAgo(publishedAt)}</p>
            </div>
